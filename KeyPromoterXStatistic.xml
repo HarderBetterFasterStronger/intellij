@@ -446,7 +446,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2696</Count>
+          <Count>2697</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -510,7 +510,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>194</Count>
+          <Count>196</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -1326,7 +1326,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3081</Count>
+          <Count>3084</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1958,7 +1958,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1099</Count>
+          <Count>1100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ATC Service.#callAtc.-&gt; regionId error'">

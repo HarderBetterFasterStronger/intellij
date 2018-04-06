@@ -1862,6 +1862,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-debug-ide (v0.7.0.beta3, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.7.0.beta3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.7.0.beta3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.7.0.beta3/ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.7.0.beta3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.7.0.beta3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.7.0.beta3/ext" />
+      </SOURCES>
+    </library>
     <library name="ruby-progressbar (v1.8.1, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
