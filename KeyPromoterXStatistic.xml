@@ -201,6 +201,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DealerTrack Service'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'DealerTrack Service'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DomainVehicleFilter Model'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -454,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2712</Count>
+          <Count>2719</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -799,6 +807,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DealerTrack Export Job'</Description>
           <Count>60</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DealerTrack Service'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DealerTrack Service'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DomainDeclineReason Model'">
@@ -1334,7 +1350,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3089</Count>
+          <Count>3101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1598,7 +1614,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>171</Count>
+          <Count>172</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ATC Service.#callAtc.-&gt; regionId error'">
@@ -1647,6 +1663,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DealerTrack Export Job'</Description>
           <Count>51</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DealerTrack Service'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DealerTrack Service'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DomainVehicleFilter Model'">
@@ -1966,7 +1990,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1102</Count>
+          <Count>1112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ATC Service.#callAtc.-&gt; regionId error'">
