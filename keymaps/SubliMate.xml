@@ -161,6 +161,9 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="StringManipulation.ToPascalCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="ctrl meta alt c" />
+  </action>
   <action id="StructuralSearchPlugin.StructuralReplaceAction" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
