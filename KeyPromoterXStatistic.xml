@@ -153,6 +153,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Agent Tool'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'Agent Tool'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Appointment Service.#getMemorialDay.shou...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -767,6 +775,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ATC Service.check FeeServiceResponse errors'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Agent Tool'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Agent Tool'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Appointment Service.#getMemorialDay.should be 5/30/2016'">
@@ -1393,6 +1409,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Agent Tool'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'Agent Tool'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Auth Service'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1647,6 +1671,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ATC Service.check FeeServiceResponse errors'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Agent Tool'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Agent Tool'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Chrome Remote'">
