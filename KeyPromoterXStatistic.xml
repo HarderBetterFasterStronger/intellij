@@ -478,7 +478,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2749</Count>
+          <Count>2750</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -830,7 +830,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DealerTrack Service'</Description>
-          <Count>45</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DomainDeclineReason Model'">
@@ -1366,7 +1366,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3146</Count>
+          <Count>3149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1630,7 +1630,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>173</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ATC Service.#callAtc.-&gt; regionId error'">
@@ -2006,7 +2006,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1135</Count>
+          <Count>1136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ATC Service.#callAtc.-&gt; regionId error'">
