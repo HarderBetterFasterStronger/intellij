@@ -350,7 +350,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'development'</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'domainVehicleFilter....'">
@@ -830,7 +830,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DealerTrack Service'</Description>
-          <Count>65</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DomainDeclineReason Model'">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'development'</Description>
-          <Count>686</Count>
+          <Count>688</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'domainVehicleFilter.mock.spec.js'">
@@ -1366,7 +1366,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3162</Count>
+          <Count>3165</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1598,7 +1598,7 @@
           <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
           <ShortCut>'⌥⌘U'</ShortCut>
           <Description>Show Visualisation Popup...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Visualisation...">
@@ -1606,7 +1606,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Visualisation...</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DealerTrack Service'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DomainVehicleFilter Model'">
@@ -2046,7 +2046,7 @@
           <IdeaActionID>UML.ZoomIn</IdeaActionID>
           <ShortCut>'⌘+' or '⌘='</ShortCut>
           <Description>Zoom In</Description>
-          <Count>18</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom Out">
@@ -2054,7 +2054,7 @@
           <IdeaActionID>UML.ZoomOut</IdeaActionID>
           <ShortCut>'⌘-' or '⌘-'</ShortCut>
           <Description>Zoom Out</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
     </option>
