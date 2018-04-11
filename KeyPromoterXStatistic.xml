@@ -486,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2848</Count>
+          <Count>2855</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -791,6 +791,30 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Agent Tool'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AgentTool Service Unit Tests.#callCarletonWithQuote'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AgentTool Service Unit Tests.#callCarletonWithQuote'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AgentTool Service Unit Tests.#formatQuoteSearchResult'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AgentTool Service Unit Tests.#formatQuoteSearchResult'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AgentTool Service Unit Tests.#handleHardPullResponse'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AgentTool Service Unit Tests.#handleHardPullResponse'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Appointment Service.#getMemorialDay.should be 5/30/2016'">
@@ -1390,7 +1414,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3349</Count>
+          <Count>3359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1662,7 +1686,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>176</Count>
+          <Count>177</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ATC Service.#callAtc.-&gt; regionId error'">
@@ -2046,7 +2070,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1196</Count>
+          <Count>1203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ATC Service.#callAtc.-&gt; regionId error'">
