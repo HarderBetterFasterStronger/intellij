@@ -369,6 +369,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'controller.js'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'controller.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'development'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -473,6 +481,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'should return 400 with appropriate valid...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'should return 400 with appropriate valid...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'test.js (1)'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -510,7 +526,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3143</Count>
+          <Count>3153</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1225,6 +1241,22 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Prequal Routes'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Prequal Routes'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Prequal Routes.POST /pre-qual.Standard JSON requests.should return 400 with appropriate validation errors for dealer purchase apps that fail validation'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Prequal Routes.POST /pre-qual.Standard JSON requests.should return 400 with appropriate validation errors for dealer purchase apps that fail validation'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Stip Service Unit Test.#processStipNotes.should call models.Note.create with the correct params'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1375,6 +1407,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'chrome remote'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'controller.js'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'controller.js'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'development'">
@@ -1534,7 +1574,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3869</Count>
+          <Count>3870</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2222,7 +2262,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1402</Count>
+          <Count>1405</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ATC Service.#callAtc.-&gt; regionId error'">
