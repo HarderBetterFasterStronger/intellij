@@ -249,6 +249,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DealerTrack File Generator'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'DealerTrack File Generator'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DealerTrack Service'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -534,7 +542,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3203</Count>
+          <Count>3207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -574,7 +582,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>343</Count>
+          <Count>344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -614,7 +622,7 @@
           <IdeaActionID>ForceStepInto</IdeaActionID>
           <ShortCut>'⌥⇧F7'</ShortCut>
           <Description>Force Step Into</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -937,12 +945,36 @@
           <Count>61</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DealerTrack File Generator'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DealerTrack File Generator'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'DealerTrack File Generator.should correctly handle NY'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DealerTrack File Generator.should correctly handle NY'</Description>
-          <Count>40</Count>
+          <Count>42</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DealerTrack File Generator.should do letter mapping'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DealerTrack File Generator.should do letter mapping'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DealerTrack File Generator.testing that productIds =&gt; letter translation happens'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DealerTrack File Generator.testing that productIds =&gt; letter translation happens'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DealerTrack File Model'">
@@ -1590,7 +1622,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3922</Count>
+          <Count>3951</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1870,7 +1902,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>182</Count>
+          <Count>184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '20180228223736-seeder-add-email-provider-to-domain-options.js'">
@@ -1945,12 +1977,20 @@
           <Count>51</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DealerTrack File Generator'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DealerTrack File Generator'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'DealerTrack File Generator.should correctly handle NY'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DealerTrack File Generator.should correctly handle NY'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DealerTrack Service'">
@@ -2286,7 +2326,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1432</Count>
+          <Count>1455</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ATC Service.#callAtc.-&gt; regionId error'">
