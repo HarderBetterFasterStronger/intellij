@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.str*" />
+    <option name="FILE_MASK" value="*model*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,5 +19,7 @@
     <mask>!*.html</mask>
     <mask>*.spec*</mask>
     <mask>*.str*</mask>
+    <mask>**</mask>
+    <mask>*model*</mask>
   </component>
 </application>
