@@ -25,6 +25,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Agent Tool User Routes.#validateCreate.s...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'Agent Tool User Routes.#validateCreate.s...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Agent Tool'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -142,7 +150,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Agent Tool User Routes.#validateCreate.should return 200 when all data is valid'</Description>
-          <Count>6</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Agent Tool'">
@@ -190,7 +198,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>270</Count>
+          <Count>281</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">
@@ -230,6 +238,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Agent Tool User Routes.#validateCreate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Agent Tool User Routes.#validateCreate.should return 200 when all data is valid'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Agent Tool User Routes.#validateCreate.should return 200 when all data is valid'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -286,7 +302,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>99</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
