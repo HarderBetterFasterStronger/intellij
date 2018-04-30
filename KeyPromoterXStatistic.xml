@@ -289,6 +289,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DealerTrack Service'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DealerTrack Service'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Seller Middleware.#validateCreate'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
