@@ -19,10 +19,10 @@
     <mask>*.spec*</mask>
     <mask>*.str*</mask>
     <mask>**</mask>
-    <mask>*model*</mask>
     <mask>*migration*</mask>
     <mask>*structure*</mask>
     <mask>*structure.js</mask>
     <mask>*decision*</mask>
+    <mask>*model*</mask>
   </component>
 </application>
