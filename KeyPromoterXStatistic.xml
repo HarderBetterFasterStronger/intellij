@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>299</Count>
+          <Count>306</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -198,7 +198,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DealerTrack Service'</Description>
-          <Count>21</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Unnamed'">
@@ -230,7 +230,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>322</Count>
+          <Count>332</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">
@@ -246,6 +246,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'gulp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show All Affected Files">
+        <Item>
+          <IdeaActionID>VcsHistory.ShowAllAffected</IdeaActionID>
+          <ShortCut>'⌥⇧A'</ShortCut>
+          <Description>Show All Affected Files</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -302,7 +310,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DealerTrack Service'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Seller Middleware.#validateCreate'">
