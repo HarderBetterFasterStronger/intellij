@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>423</Count>
+          <Count>424</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -262,7 +262,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>497</Count>
+          <Count>500</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">
@@ -294,7 +294,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
