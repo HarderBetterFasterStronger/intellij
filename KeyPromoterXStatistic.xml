@@ -209,6 +209,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Agent Tool User Routes.#validateCreate.should have authorization'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Agent Tool User Routes.#validateCreate.should have authorization'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Agent Tool User Routes.#validateCreate.should return 200 when all data is valid'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
