@@ -30,7 +30,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -71,6 +71,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Agent Tool'</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AgentToolUser middleware'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'AgentToolUser middleware'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DealerTrack Export Job'">
@@ -142,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>615</Count>
+          <Count>647</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -166,7 +174,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Into">
@@ -182,7 +190,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -257,6 +265,30 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AgentToolUser middleware'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AgentToolUser middleware'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AgentToolUser middleware.#checkAtkUser.when api key is atk.should find and attach atk user to res.locals.atkUser'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AgentToolUser middleware.#checkAtkUser.when api key is atk.should find and attach atk user to res.locals.atkUser'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AgentToolUser middleware.#checkAtkUser.when api key is atk.should respond with 403 if atk user for provided id is not found'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AgentToolUser middleware.#checkAtkUser.when api key is atk.should respond with 403 if atk user for provided id is not found'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'DealerTrack Export Job'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -318,7 +350,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1358</Count>
+          <Count>1428</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Agent Tool User Routes'">
@@ -374,7 +406,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>29</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Agent Tool User Routes'">
@@ -407,6 +439,22 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Agent Tool'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AgentToolUser middleware'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AgentToolUser middleware'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AgentToolUser middleware.#checkAtkUser.when api key is atk.should respond with 403 if atk user for provided id is not found'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AgentToolUser middleware.#checkAtkUser.when api key is atk.should respond with 403 if atk user for provided id is not found'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Auth Integration'">
@@ -510,7 +558,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>381</Count>
+          <Count>409</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Agent Tool User Routes.#validateCreate'">
@@ -518,6 +566,14 @@
           <IdeaActionID>liveedit.UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'Agent Tool User Routes.#validateCreate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update 'AgentToolUser middleware'">
+        <Item>
+          <IdeaActionID>liveedit.UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'⌘F10'</ShortCut>
+          <Description>Update 'AgentToolUser middleware'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
