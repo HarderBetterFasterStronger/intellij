@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>647</Count>
+          <Count>649</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -225,6 +225,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '#AgentToolUser Integration'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun '#AgentToolUser Integration'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Agent Tool User Routes'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -263,6 +271,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Agent Tool'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AgentToolUser Model'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AgentToolUser Model'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AgentToolUser middleware'">
@@ -350,7 +366,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1428</Count>
+          <Count>1435</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Agent Tool User Routes'">
@@ -406,7 +422,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Agent Tool User Routes'">
@@ -558,7 +574,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>409</Count>
+          <Count>417</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Agent Tool User Routes.#validateCreate'">
@@ -598,7 +614,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
     </option>
