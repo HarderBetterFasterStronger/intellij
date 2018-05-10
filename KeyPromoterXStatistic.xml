@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>664</Count>
+          <Count>665</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -335,6 +335,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Notary Routes'</Description>
           <Count>39</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'NotificationSMS Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'NotificationSMS Tests'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Reporting - LendingTree Job'">
