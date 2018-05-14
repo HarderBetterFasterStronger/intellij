@@ -150,7 +150,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'development'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'scratch.js'">
@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>776</Count>
+          <Count>788</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -425,6 +425,22 @@
           <Count>84</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'notary service'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'notary service'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'notary service.#getCreditOfferData'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'notary service.#getCreditOfferData'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'test.js'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -438,7 +454,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1680</Count>
+          <Count>1687</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Agent Tool User Routes'">
@@ -486,7 +502,7 @@
           <IdeaActionID>VcsHistory.ShowAllAffected</IdeaActionID>
           <ShortCut>'⌥⇧A'</ShortCut>
           <Description>Show All Affected Files</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -657,6 +673,22 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'notary service'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'notary service'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'notary service.#getCreditOfferData'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'notary service.#getCreditOfferData'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'test.js'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -702,7 +734,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>564</Count>
+          <Count>571</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Agent Tool User Routes.#validateCreate'">
@@ -758,7 +790,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
     </option>
