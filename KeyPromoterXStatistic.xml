@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>821</Count>
+          <Count>833</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -470,7 +470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'notary service.#scheduled.should not call resend documents if old date is same as new date'</Description>
-          <Count>4</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'notary service.#scheduled.should throw an error if creditOffer is null'">
@@ -494,7 +494,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1762</Count>
+          <Count>1779</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Agent Tool User Routes'">
@@ -566,7 +566,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>79</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Address'">
@@ -734,7 +734,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'notary service.#scheduled.should not call resend documents if old date is same as new date'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'notary service.#scheduled.should throw an error if creditOffer is null'">
@@ -790,7 +790,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>593</Count>
+          <Count>600</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Agent Tool User Routes.#validateCreate'">
