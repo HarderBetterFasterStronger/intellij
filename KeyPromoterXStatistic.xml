@@ -150,7 +150,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'development'</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'scratch.js'">
@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>788</Count>
+          <Count>789</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -422,7 +422,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'development'</Description>
-          <Count>84</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'notary service'">
@@ -430,7 +430,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'notary service'</Description>
-          <Count>4</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'notary service.#getCreditOfferData'">
@@ -454,7 +454,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1687</Count>
+          <Count>1690</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Agent Tool User Routes'">
@@ -670,7 +670,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'development'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'notary service'">
@@ -678,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'notary service'</Description>
-          <Count>8</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'notary service.#getCreditOfferData'">
