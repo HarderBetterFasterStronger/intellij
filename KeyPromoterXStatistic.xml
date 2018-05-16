@@ -542,7 +542,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'test.js'</Description>
-          <Count>93</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -550,7 +550,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1921</Count>
+          <Count>1935</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Agent Tool User Routes'">
@@ -870,7 +870,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>651</Count>
+          <Count>653</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Agent Tool User Routes.#validateCreate'">
