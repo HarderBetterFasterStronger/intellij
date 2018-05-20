@@ -4,4 +4,8 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
   <component name="LiveEditOptions" nodeAutoDelay="3000" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
