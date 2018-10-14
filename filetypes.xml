@@ -14,7 +14,6 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="controller" type="JavaScript" />
       <mapping pattern="secrets" type="PLAIN_TEXT" />
-      <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="2g9nt8rx" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
